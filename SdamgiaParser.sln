@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdamgiaParser", "SdamgiaParser.csproj", "{4FF46BC1-3313-4724-99AF-6C826E6E1EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF46BC1-3313-4724-99AF-6C826E6E1EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF46BC1-3313-4724-99AF-6C826E6E1EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF46BC1-3313-4724-99AF-6C826E6E1EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF46BC1-3313-4724-99AF-6C826E6E1EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE706420-2086-43A8-AA30-6C23E581F76F}
+	EndGlobalSection
+EndGlobal
